@@ -183,9 +183,9 @@ Planned areas include:
 | Platform | Link |
 |----------|------|
 | GitHub | https://github.com/Shehbaz-Hussain |
-| LinkedIn | https://www.linkedin.com/in/shehbaz-hussain |
+| LinkedIn | https://www.linkedin.com/in/shehbaz-hussain1 |
 | Portfolio | *Coming Soon* |
-| Email | your-email@example.com |
+| Email | shehbazhussain1to10@gmail.com |
 
 ---
 
